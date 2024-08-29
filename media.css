@@ -1,0 +1,1126 @@
+@media (max-width: 320px) {
+    .container {
+        width: 320px;
+    }
+}
+
+@media (max-width: 320px) {
+    .bgvideo {
+        height: 300px;
+        padding-top: 100px;
+        background-color: black;
+    }
+}
+
+@media (max-width: 320px) {
+    .jamstudio {
+        font-size: 14px;
+        padding-left: 10px;
+    }
+}
+
+@media (max-width: 320px) {
+    .menu {
+        font-size: 14px;
+        padding-right: 10px;
+    }
+}
+
+@media (max-width: 320px) {
+    .mainvideo {
+        height: 180px;
+    }
+}
+
+@media (max-width: 320px) {
+    .Design {
+        font-size: 30px;
+        line-height: 30px;
+        padding-left: 10px;
+    }
+}
+
+@media (max-width: 320px) {
+    .eyes {
+        width: 25px;
+        height: 15px;
+        padding-left: 10px;
+    }
+}
+
+@media (max-width: 320px) {
+    .Subscribe {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 320px) {
+    .Illustrate {
+        width: 300px;
+        font-size: 12px;
+        padding-left: 10px;
+    }
+}
+
+@media (max-width: 320px) {
+    .btns {
+        padding-top: 40px;
+        padding-left: 10px;
+    }
+}
+
+@media (max-width: 320px) {
+    .btn1 {
+        width: 15px;
+        height: 15px;
+        border-radius: 4px;
+    }
+}
+
+@media (max-width: 320px) {
+    .connect {
+        font-size: 16px;
+        line-height: 16px;
+    }
+}
+
+@media (max-width: 320px) {
+    .btn2 {
+        width: 15px;
+        height: 15px;
+        border-radius: 4px;
+    }
+}
+
+@media (max-width: 320px) {
+    .Textbrief {
+        font-size: 16px;
+        line-height: 16px;
+    }
+}
+
+@media (max-width: 320px) {
+    .screen2 {
+        padding-top: 100px;
+    }
+}
+
+@media (max-width: 320px) {
+    .containerscreen2 {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 320px) {
+    .projectnumber {
+        font-size: 12px;
+        gap: 10px;
+        padding-left: 10px;
+    }
+}
+
+@media (max-width: 320px) {
+    .Bigtext1 {
+        font-size: 30px;
+        padding-right: 10px;
+        line-height: 30px;
+        padding-top: 10px;
+        text-align: right;
+    }
+}
+
+@media (max-width: 320px) {
+    .Bigtext2 {
+        font-size: 30px;
+        padding-left: 10px;
+        padding-right: 10px;
+        line-height: 30px;
+    }
+}
+
+@media (max-width: 320px) {
+    .container4 {
+        font-size: 16px;
+        padding-left: 10px;
+        padding-right: 10px;
+        justify-content: flex-start;
+    }
+}
+
+@media (max-width: 320px) {
+    .mot {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 320px) {
+    .Phantom {
+        font-size: 16px;
+        padding-right: 20px;
+        width: 60%;
+    }
+}
+
+@media (max-width: 320px) {
+    .year1 {
+        font-size: 16px;
+    }
+}
+
+/* Отключаем Phantom комп версию на мобилке */
+
+@media (max-width: 320px) {
+    .screen3 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .containerscreen3 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .cup1 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .videoproject1 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .bgvideoproject1 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .mot {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .Phantom {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .year1 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .subproj1 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .award1 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .concept1 {
+        display: none;
+    }
+}
+
+/* Отключаем HBP комп версию на мобилке */
+
+@media (max-width: 320px) {
+    .screen4 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .containerscreen4 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .cup1 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .videoproject1 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .bgvideoproject1 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .mot {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .HBP {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .year1 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .subproj1 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .award2 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .concept2 {
+        display: none;
+    }
+}
+
+/* Отключаем Artem комп версию на мобилке */
+
+@media (max-width: 320px) {
+    .screen5 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .containerscreen5 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .cup1 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .videoproject1 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .bgvideoproject1 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .mot {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .Artem {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .year1 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .subproj1 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .award3 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .concept3 {
+        display: none;
+    }
+}
+
+/* Отключаем Bambo комп версию на мобилке */
+
+@media (max-width: 320px) {
+    .screen6 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .containerscreen6 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .cup1 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .videoproject1 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .bgvideoproject1 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .mot {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .Bambo {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .year1 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .subproj4 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .award4 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .concept4 {
+        display: none;
+    }
+}
+
+/* Отключаем Stereo комп версию на мобилке */
+
+@media (max-width: 320px) {
+    .screen7 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .containerscreen7 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .cup1 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .videoproject1 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .bgvideoproject1 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .mot {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .Stereolizard {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .year1 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .subproj5 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .award5 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .concept5 {
+        display: none;
+    }
+}
+
+/* Phantom мобильная версия */
+@media (max-width: 320px) {
+    .screen3_mobile {
+        background-color: black;
+        color: #F7F7F2;
+        display: flex;
+        flex-direction: column;
+        padding-top: 60px;
+        display: flex;
+        padding-right: 10px;
+    }
+}
+
+@media (max-width: 320px) {
+    .containerscreen3_mobile {
+        background-color: black;
+        color: #F7F7F2;
+        display: flex;
+        flex-direction: column;
+        display: flex;
+        padding-left: 10px;
+    }
+}
+
+@media (max-width: 320px) {
+    .videoproject1_mobile {
+        height: 175px;
+        width: 100%;
+        border-radius: 10px;
+        border: solid #F7F7F2;
+        border-width: 2px;
+    }
+}
+
+@media (max-width: 320px) {
+    .bgvideoproject1_mobile {
+        height: 171px;
+        width: 100%;
+        border-radius: 10px;
+    }
+}
+
+@media (max-width: 320px) {
+    .container4_mobile {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 20px;
+        font-family: Manrope;
+        color: #F7F7F2;
+    }
+}
+
+@media (max-width: 320px) {
+    .subproj1_mobile {
+        display: flex;
+        flex-direction: column;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 20px;
+        font-family: Manrope;
+        color: #F7F7F2;
+    }
+}
+
+
+@media (max-width: 320px) {
+    .concept1_mobile {
+        padding-left: 0px;
+        opacity: 70%;
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 320px) {
+    .concept1-1 {
+        padding-top: 10px;
+        text-align: right;
+        opacity: 70%;
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 320px) {
+    .subproj1-2_mobile {
+        display: flex;
+        flex-direction: row;
+        color: #F7F7F2;
+        justify-content: space-between;
+        padding-top: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+@media (max-width: 320px) {
+    .cup1_mobile {
+        width: 30px;
+        height: 30px;
+        border-radius: 50px;
+    }
+}
+
+@media (max-width: 320px) {
+    .subproj1-3_mobile {
+        display: flex;
+        flex-direction: row;
+        color: #F7F7F2;
+        justify-content: space-between;
+    }
+}
+
+@media (max-width: 320px) {
+    .award1_mobile {
+        color: #F7F7F2;
+        padding-left: 10px;
+        opacity: 70%;
+        font-size: 12px;
+    }
+}
+
+/* HBP мобильная версия */
+@media (max-width: 320px) {
+    .screen4_mobile {
+        background-color: black;
+        color: #F7F7F2;
+        display: flex;
+        flex-direction: column;
+        padding-top: 60px;
+        padding-right: 10px;
+        display: flex;
+    }
+}
+
+@media (max-width: 320px) {
+    .containerscreen4_mobile {
+        background-color: black;
+        color: #F7F7F2;
+        display: flex;
+        flex-direction: column;
+        display: flex;
+        padding-left: 10px;
+    }
+}
+
+@media (max-width: 320px) {
+    .videoproject1_mobile {
+        height: 175px;
+        width: 100%;
+        border-radius: 10px;
+        border: solid #F7F7F2;
+        border-width: 2px;
+    }
+}
+
+@media (max-width: 320px) {
+    .bgvideoproject1_mobile {
+        height: 175px;
+        width: 100%;
+        border-radius: 10px;
+    }
+}
+
+@media (max-width: 320px) {
+    .container5_mobile {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 20px;
+        font-family: Manrope;
+        color: #F7F7F2;
+    }
+}
+
+@media (max-width: 320px) {
+    .subproj2_mobile {
+        display: flex;
+        flex-direction: column;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 20px;
+        font-family: Manrope;
+        color: #F7F7F2;
+    }
+}
+
+
+@media (max-width: 320px) {
+    .concept2_mobile {
+        padding-left: 0px;
+        opacity: 70%;
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 320px) {
+    .subproj1-2_mobile {
+        display: flex;
+        flex-direction: row;
+        color: #F7F7F2;
+        justify-content: space-between;
+        padding-top: 20px;
+        padding-left: 10px;
+    }
+}
+
+@media (max-width: 320px) {
+    .cup1_mobile {
+        width: 30px;
+        height: 30px;
+        border-radius: 50px;
+    }
+}
+
+@media (max-width: 320px) {
+    .subproj1-3_mobile {
+        display: flex;
+        flex-direction: row;
+        color: #F7F7F2;
+        justify-content: space-between;
+    }
+}
+
+@media (max-width: 320px) {
+    .award1_mobile {
+        color: #F7F7F2;
+        padding-left: 10px;
+        opacity: 70%;
+        font-size: 12px;
+    }
+}
+
+/* Artem мобильная версия */
+@media (max-width: 320px) {
+    .screen5_mobile {
+        background-color: black;
+        color: #F7F7F2;
+        display: flex;
+        flex-direction: column;
+        padding-top: 60px;
+        padding-right: 10px;
+        display: flex;
+    }
+}
+
+@media (max-width: 320px) {
+    .containerscreen5_mobile {
+        background-color: black;
+        color: #F7F7F2;
+        display: flex;
+        flex-direction: column;
+        display: flex;
+        padding-left: 10px;
+    }
+}
+
+@media (max-width: 320px) {
+    .videoproject1_mobile {
+        height: 175px;
+        width: 100%;
+        border-radius: 10px;
+        border: solid #F7F7F2;
+        border-width: 2px;
+    }
+}
+
+@media (max-width: 320px) {
+    .bgvideoproject1_mobile {
+        height: 173px;
+        width: 100%;
+        border-radius: 10px;
+    }
+}
+
+@media (max-width: 320px) {
+    .container6_mobile {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 20px;
+        font-family: Manrope;
+        color: #F7F7F2;
+    }
+}
+
+@media (max-width: 320px) {
+    .subproj3_mobile {
+        display: flex;
+        flex-direction: column;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 20px;
+        font-family: Manrope;
+        color: #F7F7F2;
+    }
+}
+
+
+@media (max-width: 320px) {
+    .concept3_mobile {
+        padding-left: 0px;
+        opacity: 70%;
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 320px) {
+    .concept3-1 {
+        padding-top: 10px;
+        text-align: right;
+        opacity: 70%;
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 320px) {
+    .subproj3-2_mobile {
+        display: flex;
+        flex-direction: row;
+        color: #F7F7F2;
+        justify-content: space-between;
+        padding-top: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+@media (max-width: 320px) {
+    .cup1_mobile {
+        width: 30px;
+        height: 30px;
+        border-radius: 50px;
+    }
+}
+
+@media (max-width: 320px) {
+    .subproj3-3_mobile {
+        display: flex;
+        flex-direction: row;
+        color: #F7F7F2;
+        justify-content: space-between;
+    }
+}
+
+@media (max-width: 320px) {
+    .award3_mobile {
+        color: #F7F7F2;
+        padding-left: 10px;
+        opacity: 70%;
+        font-size: 12px;
+    }
+}
+
+/* Bambokids мобильная версия */
+@media (max-width: 320px) {
+    .screen6_mobile {
+        background-color: black;
+        color: #F7F7F2;
+        display: flex;
+        flex-direction: column;
+        padding-top: 60px;
+        padding-right: 10px;
+        display: flex;
+    }
+}
+
+@media (max-width: 320px) {
+    .containerscreen6_mobile {
+        background-color: black;
+        color: #F7F7F2;
+        display: flex;
+        flex-direction: column;
+        display: flex;
+        padding-left: 10px;
+    }
+}
+
+@media (max-width: 320px) {
+    .videoproject1_mobile {
+        height: 175px;
+        width: 100%;
+        border-radius: 10px;
+        border: solid #F7F7F2;
+        border-width: 2px;
+    }
+}
+
+@media (max-width: 320px) {
+    .bgvideoproject1_mobile {
+        height: 173px;
+        width: 100%;
+        border-radius: 10px;
+    }
+}
+
+@media (max-width: 320px) {
+    .container7_mobile {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 20px;
+        font-family: Manrope;
+        color: #F7F7F2;
+    }
+}
+
+@media (max-width: 320px) {
+    .subproj4_mobile {
+        display: flex;
+        flex-direction: column;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 20px;
+        font-family: Manrope;
+        color: #F7F7F2;
+    }
+}
+
+
+@media (max-width: 320px) {
+    .concept4_mobile {
+        padding-left: 0px;
+        opacity: 70%;
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 320px) {
+    .concept4-1 {
+        opacity: 70%;
+        font-size: 12px;
+        text-align: right;
+    }
+}
+
+@media (max-width: 320px) {
+    .subproj4-2_mobile {
+        display: flex;
+        flex-direction: row;
+        color: #F7F7F2;
+        justify-content: space-between;
+        padding-top: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+@media (max-width: 320px) {
+    .cup1_mobile {
+        width: 30px;
+        height: 30px;
+        border-radius: 50px;
+    }
+}
+
+@media (max-width: 320px) {
+    .subproj4-3_mobile {
+        display: flex;
+        flex-direction: row;
+        color: #F7F7F2;
+        justify-content: space-between;
+    }
+}
+
+@media (max-width: 320px) {
+    .award4_mobile {
+        color: #F7F7F2;
+        padding-left: 10px;
+        opacity: 70%;
+        font-size: 12px;
+    }
+}
+
+/* Stereo мобильная версия */
+@media (max-width: 320px) {
+    .screen7_mobile {
+        background-color: black;
+        color: #F7F7F2;
+        display: flex;
+        flex-direction: column;
+        padding-top: 60px;
+        padding-right: 10px;
+        display: flex;
+    }
+}
+
+@media (max-width: 320px) {
+    .containerscreen7_mobile {
+        background-color: black;
+        color: #F7F7F2;
+        display: flex;
+        flex-direction: column;
+        display: flex;
+        padding-left: 10px;
+    }
+}
+
+@media (max-width: 320px) {
+    .videoproject1_mobile {
+        height: 175px;
+        width: 100%;
+        border-radius: 10px;
+        border: solid #F7F7F2;
+        border-width: 2px;
+    }
+}
+
+@media (max-width: 320px) {
+    .bgvideoproject1_mobile {
+        height: 173px;
+        width: 100%;
+        border-radius: 10px;
+    }
+}
+
+@media (max-width: 320px) {
+    .container8_mobile {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 20px;
+        font-family: Manrope;
+        color: #F7F7F2;
+    }
+}
+
+@media (max-width: 320px) {
+    .subproj5_mobile {
+        display: flex;
+        flex-direction: column;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 20px;
+        font-family: Manrope;
+        color: #F7F7F2;
+    }
+}
+
+
+@media (max-width: 320px) {
+    .concept5_mobile {
+        padding-left: 0px;
+        opacity: 70%;
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 320px) {
+    .concept5-1 {
+        opacity: 70%;
+        font-size: 12px;
+        text-align: right;
+    }
+}
+
+@media (max-width: 320px) {
+    .subproj5-2_mobile {
+        display: flex;
+        flex-direction: row;
+        color: #F7F7F2;
+        justify-content: space-between;
+        padding-top: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+@media (max-width: 320px) {
+    .cup1_mobile {
+        width: 30px;
+        height: 30px;
+        border-radius: 50px;
+    }
+}
+
+@media (max-width: 320px) {
+    .subproj5-3_mobile {
+        display: flex;
+        flex-direction: row;
+        color: #F7F7F2;
+        justify-content: space-between;
+    }
+}
+
+@media (max-width: 320px) {
+    .award5_mobile {
+        color: #F7F7F2;
+        padding-left: 10px;
+        opacity: 70%;
+        font-size: 12px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
